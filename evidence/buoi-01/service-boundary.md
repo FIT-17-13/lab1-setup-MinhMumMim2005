@@ -4,7 +4,7 @@
 
 - Tên nhóm: Nhóm 10
 - Lớp: CNTT 17-13
-- Thành viên:Trần Văn Minh
+- Thành viên: Trần Văn Minh, Nguyễn Khắc Hoàng, Nguyễn Đức Thịnh, Trần Quang Minh
 - Service nhóm phụ trách: Access Gates
 - Sản phẩm tổng thể của lớp: Product B
 
